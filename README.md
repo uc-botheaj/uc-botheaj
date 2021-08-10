@@ -1,5 +1,5 @@
 - 👋  Hi, I’m AJ Bothe
-- 👀  I’m interested in programming, automation, cloud and 
+- 👀  I’m interested in programming, automation, and cloud 
 - 🌱  I’m currently learning Terraform and AWS
 - 😃  Check me out on [LinkedIn](https://www.linkedin.com/in/ajbothe/)
 - ✍️  [Checkout my tech blog](https://blog.ajbothe.com/)
